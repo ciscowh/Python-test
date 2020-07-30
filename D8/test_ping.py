@@ -10,8 +10,12 @@ def qyang_ping(ip):
     else:
         return ip,False
 if __name__ == '__main__':
-    ping_tong=qyang_ping('196.21.5.254')
+    ping_tong=qyang_ping('192.168.199.77')
+    print(ping_tong[1])
     if ping_tong[1]:
         print(f'{ping_tong[0]} 通！')
     else:
-        print(f'{ping_tong[0]} 不通')
+        print(f'{ping_tong[0]} 不通!')
+
+from datetime import timezone
+timezone(timed)
