@@ -4,7 +4,18 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.8.4 (sftp://root@192.168.199.30:22/usr/local/bin/python3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (Python-test)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Bottle_Lab" />
+    <orderEntry type="module" module-name="Devnet_CCNA_Netconf_Auto" />
+    <orderEntry type="module" module-name="QYT_Ansible" />
+    <orderEntry type="module" module-name="python_network" />
+    <orderEntry type="module" module-name="qyt_djg" />
+    <orderEntry type="module" module-name="Devnet_CCNA_Guestshell" />
+    <orderEntry type="module" module-name="qyt_djg" />
+    <orderEntry type="module" module-name="Python基础课" />
+    <orderEntry type="module" module-name="djghomework" />
+    <orderEntry type="module" module-name="qyt_djg" />
+    <orderEntry type="module" module-name="qyt_djg" />
   </component>
 </module>

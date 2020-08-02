@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bottle_Flask_Requests/.idea/Bottle_Lab.iml" filepath="$PROJECT_DIR$/../Bottle_Flask_Requests/.idea/Bottle_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Devnet_CCNA_Guestshell/.idea/Devnet_CCNA_Guestshell.iml" filepath="$PROJECT_DIR$/../Devnet_CCNA_Guestshell/.idea/Devnet_CCNA_Guestshell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Devnet_CCNA_Netconf_Auto/.idea/Devnet_CCNA_Netconf_Auto.iml" filepath="$PROJECT_DIR$/../Devnet_CCNA_Netconf_Auto/.idea/Devnet_CCNA_Netconf_Auto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python-test.iml" filepath="$PROJECT_DIR$/.idea/Python-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_basic/.idea/Python基础课.iml" filepath="$PROJECT_DIR$/../python_basic/.idea/Python基础课.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QYT_Ansible/.idea/QYT_Ansible.iml" filepath="$PROJECT_DIR$/../QYT_Ansible/.idea/QYT_Ansible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_homework/.idea/djghomework.iml" filepath="$PROJECT_DIR$/../django_homework/.idea/djghomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Network_Classic_Protocol1/.idea/python_network.iml" filepath="$PROJECT_DIR$/../Python_Network_Classic_Protocol1/.idea/python_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_last/.idea/qyt_djg.iml" filepath="$PROJECT_DIR$/../django_last/.idea/qyt_djg.iml" />
     </modules>
   </component>
 </project>
